@@ -27,7 +27,7 @@ class MainClass {
     meuArq.Close();
 
     media = (float)soma/qtdNumeros;
-    Console.WriteLine($"Media: {media}");
+    Console.WriteLine($"Média: {media}");
 
   }
 }
